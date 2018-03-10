@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="timerLabel">Časovač</string>
+    <string name="footerLabel">Zápatí</string>
+    <string name="leftTabLabel">Záložka vlevo</string>
+    <string name="mainText">Ahoj světe</string>
+    <string name="rightTabLabel">Záložka vpravo</string>
+    <string name="titleLabel">Vývoj aplikací pro Android</string>
+</resources>

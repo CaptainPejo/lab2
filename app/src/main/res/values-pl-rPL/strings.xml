@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="timerLabel">Licznik</string>
+    <string name="titleLabel">Programowanie aplikacji dla Androida</string>
+    <string name="rightTabLabel">Prawy panel</string>
+    <string name="leftTabLabel">Lewy panel</string>
+    <string name="footerLabel">Stopka</string>
+    <string name="mainText">Witaj swiecie!</string>
+</resources>
